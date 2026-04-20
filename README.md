@@ -101,6 +101,7 @@
 </div>
 
 </details>
+
 ---
 
 ### 🐍 Commit Snake

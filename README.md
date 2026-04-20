@@ -38,6 +38,12 @@
 
 ---
 
+<!-- More Information Details Myself -->
+<details>
+<summary> More about me 🔥
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Toanapr.visitor-badge">
+</summary>
+
 ### 🚀 My Stack & Tools
 <div align="center">
   <!-- Languages -->
@@ -105,6 +111,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+</details>
 
  
   

@@ -4,7 +4,10 @@
 
   <h1>🌌 Welcome to my universe!</h1>
   <h3>Software Engineering Student | Tech Enthusiast | Open to Collaboration</h3>
-  
+   <br>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Toanapr&color=F700FF" alt="Profile Views" />
+  </p>
 </div>
 
 ---
@@ -94,7 +97,7 @@
 
 ---
 
-### 🐍 Fun Fact: Commit Snake
+### 🐍 Commit Snake
 <div align="center">
   <img src="https://github.com/Toanapr/Toanapr/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
@@ -103,8 +106,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-  <br>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Toanapr&color=F700FF" alt="Profile Views" />
-  </p>
+ 
   

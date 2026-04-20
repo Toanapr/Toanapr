@@ -4,7 +4,6 @@
 
   <h1>🌌 Welcome to my universe!</h1>
   <h3>Software Engineering Student | Tech Enthusiast | Open to Collaboration</h3>
-   <br>
   <p>
     <img src="https://komarev.com/ghpvc/?username=Toanapr&color=F700FF" alt="Profile Views" />
   </p>
